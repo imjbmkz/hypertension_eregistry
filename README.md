@@ -23,4 +23,5 @@ The **Hypertension e-Registry** (simply *e-Registry*) is an Excel-based system t
 
 The e-Registry can only be used by one person at a time to ensure that the data is up to date, and are not scattered to different Excel files. Merging different e-Registry versions with different enrollments isn't part of the e-Registry's functions. In the **Portable Hypertension Reporting Tool** (**PoHRT**) section, the alternative way of adding visit details of existing patients will be discussed.
 
-### How to use the e-Registry?
+### System Requirements
+The Hypertension e-Registry was developed using Microsoft Excel 2010. It can be used with Microsoft Excel 2010, Excel 2013, Excel 2016, Excel 2019, and Excel 365. Note that this is not going to work with Google Sheets, LibreOffice, WPS, and the like. The file contains macros, hence, macro must be enabled after opening the e-Registry. 
